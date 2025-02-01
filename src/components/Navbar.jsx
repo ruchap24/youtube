@@ -1,4 +1,3 @@
-import React from "react";
 import { AiOutlineMenu } from "react-icons/ai";
 import OIP from "../../public/OIP.jpg";
 import { CiSearch } from "react-icons/ci";
